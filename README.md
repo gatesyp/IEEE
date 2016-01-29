@@ -17,6 +17,7 @@ Reference sheet for University of Akron IEEE Student Chapter.
 General workflow(after setting up and cloning a repo): 
 
 | Command | Description |
+| --- | --- |
 | git checkout -b <branchname> | Make your own branch to work on things |
 | git commit <filename> -m "<message>" | Message should be short and descriptive |
 | git push | Push the change to your own branch |
