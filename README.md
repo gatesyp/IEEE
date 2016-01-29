@@ -1,9 +1,7 @@
 # IEEE - University of Akron Student Chapter
 Reference sheet for University of Akron IEEE Student Chapter. 
 
-GitHub: 
-
-##Normal series of commands for a project: 
+##GitHub: 
 
 | Command | Description |
 | --- | --- |
@@ -15,7 +13,17 @@ GitHub:
 | git push | Push all your commits to the GitHub servers |
 | git pull | Update your contents to match the online server |
 
-##General UNIX commands: 
+
+General workflow(after setting up and cloning a repo): 
+
+| Command | Description |
+| git checkout -b <branchname> | Make your own branch to work on things |
+| git commit <filename> -m "<message>" | Message should be short and descriptive |
+| git push | Push the change to your own branch |
+
+When you are ready to merge your branch with the master branch, submit a pull request. 
+
+##UNIX: 
 
 | Command | Description |
 | --- | --- |
